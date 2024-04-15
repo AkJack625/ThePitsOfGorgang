@@ -9,7 +9,7 @@ and interactions with a stranger to uncover their past and find a
 way out of the pit.
 *******************************************************************
 
-                        How to Build/Run
+How to Build/Run
 
 1. Ensure you have a C++ compiler installed on your system.
 2. Clone or download the source code from this repository.
@@ -24,14 +24,14 @@ directory containing the source code.
     ./pits_of_gorgang  
 *******************************************************************
 
-                            Dependencies
+Dependencies
 
 * This game is written in C++ and requires a C++ compiler to build 
 and run.
 * There are no eternal libraries or dependencies required.
 *******************************************************************
 
-                        Special Instructions
+Special Instructions
 
 * The game prompts the player to make choices by entering a 
 number corresponding to the available options.
